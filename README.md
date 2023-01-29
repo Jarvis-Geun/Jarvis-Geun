@@ -55,7 +55,7 @@
 - [2022학년도 1학기 전북대학교 캡스톤디자인 대상 (총장상)](https://linc.jbnu.ac.kr/history/index.php?cp_code=22051011083317&club_code=22053114160294)
 - [캡스톤디자인 영상](https://www.youtube.com/watch?v=UsSah7qaUHU&ab_channel=Jarvis-Geun)
   
-### 인공지능x블록체인 아이디어 공모전
+### 인공지능x블록체인 아이디어 공모전 (2021)
 - [[전주정보문화산업진흥원장상] 2021년 인공지능·블록체인 아이디어 공모전 최우수상](http://www.jica.or.kr/2016/inner.php?sMenu=A9000&pno=2&mode=view&no=71)
 - [2021 전국 인공지능 문제해결 아이디어 공모 왕중왕전 참가](https://youtu.be/Th-MLKYG0fc?t=102)
   
